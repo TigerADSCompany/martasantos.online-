@@ -43,11 +43,11 @@ body {
 .btn {
 	border-radius: 10px;
 	padding: 30px 30px;
-	font-size: 20px;
-	background-color: #f7ce6a;
+	font-size: 25px;
+	background-color: yellow;
 	outline: none;
 	color: black;
-	text-decoration: none;
+	text-decoration: bold;
 }
 
 .black h1 {
@@ -55,6 +55,6 @@ body {
 }
 
 .black p {
-	font-size: 18px;
+	font-size: 20px;
 	color: white;
 }
